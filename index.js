@@ -1,37 +1,40 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const cors = require('cors');
+// const cors = require('cors');
 const app = express();
+const PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.text());
 app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 
-const conf = {
-	port: process.env.PORT || process.argv[2] || 3000,
-	originUndefined: function (req, res, next) {
-		if (!req.headers.origin) {
-			res.json({
-				"mess": "Hey, you're visiting the service locally. If this was a CORS the origin header should not be undefined"
-			});
-		} else {
-			next();
-		}
-	},
-	cors: {
-		origin: function (origin, cb) {
-			let whiteList = ['https://teafographic.netlify.com'];
-			if(whiteList.indexOf(origin) != -1) {
-				cb(null, true);
-			} else {
-				cb(new Error('invalid origin: ' + origin), false);
-			}
-		},
-		optionsSuccessStatus: 200
-	}
-};
-app.use(conf.originUndefined, cors(conf.cors));
+// const conf = {
+// 	port: process.env.PORT || process.argv[2] || 3000,
+// 	originUndefined: function (req, res, next) {
+// 		if (!req.headers.origin) {
+// 			res.json({
+// 				"mess": "Hey, you're visiting the service locally. If this was a CORS the origin header should not be undefined"
+// 			});
+// 		} else {
+// 			next();
+// 		}
+// 	},
+// 	cors: {
+// 		origin: function (origin, cb) {
+// 			let whiteList = ['https://teafographic.netlify.com', 'localhost:3000/encyclopedia'];
+// 			if(whiteList.indexOf(origin) != -1) {
+// 				cb(null, true);
+// 			} else {
+// 				cb(new Error('invalid origin: ' + origin), false);
+// 			}
+// 		},
+// 		optionsSuccessStatus: 200
+// 	}
+// };
+// app.use(conf.originUndefined, cors(conf.cors));
+
+
 // const allowCrossDomain = function(req, res, next) {
 //     res.header('Access-Control-Allow-Origin', '*');
 //     res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
@@ -64,6 +67,6 @@ require("./app/routes/api-routes.js")(app);
 
 //Listener
 //============================================================
-app.listen(conf.port, function() {
-  console.log("App listening on PORT " + conf.port);
+app.listen(PORT, function() {
+  console.log("App listening on PORT " + PORT);
 });
