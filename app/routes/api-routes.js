@@ -16,6 +16,7 @@ module.exports = function(app){
 			"origin": request.headers.origin,
 			"os_hostname": os.hostname(),
 			"os_cpus": os.cpus()
+		});
 	});
 	app.get("/api", function(request, response){
 		console.log(teas);
