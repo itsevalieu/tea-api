@@ -1,0 +1,14 @@
+{
+	"data": [
+		{
+			"name": "Jasmine Green Tea",
+			"type": "Green",
+			"description": "Jasmine green tea with antioxidants."
+		},
+		{
+			"name": "Assam Black Tea",
+			"type": "Black",
+			"description": "Assam Black Tea from India."
+		}
+	]
+}
