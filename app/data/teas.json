@@ -356,8 +356,8 @@
 			"benefits": "",
 			"type": "Herbal Tea",
 			"brew": "time",
-			"description": "descrip",
-			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/400344_b_1.jpg?v=1500016110",																																						
+			"description": "description",
+			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/400344_b_1.jpg?v=1500016110",
 		},
 		{
 			"handle": "double-ginger-instant-tea",	
@@ -555,7 +555,7 @@
 			"type": "Oolong Tea",
 			"brew": "5 mins",
 			"description": "descrip",
-			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110272_b.jpg?v=1527799546",																																							
+			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110272_b.jpg?v=1527799546",											
 		},
 		{
 			"handle": "lychee-oolong Tea",	
@@ -564,7 +564,7 @@
 			"type": "Oolong Tea",
 			"brew": "5 mins",
 			"description": "descrip",
-			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110201_b.jpg?v=1527799353",																																							
+			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110201_b.jpg?v=1527799353",
 		},
 		{
 			"handle": "a-li-shan-oolong-tea",	
