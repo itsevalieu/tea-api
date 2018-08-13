@@ -24,9 +24,10 @@ app.use(bodyParser.text());
 app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 
 //Router
-app.get('/api', require("./app/routes/api-routes.js"));
+app.get('/tea', require('./app/routes/tea.js'));
+app.get('/api', require('./app/routes/tea.js'));
 
 //Listener
 app.listen(PORT, function() {
-  console.log("App listening on PORT " + PORT);
+  console.log('App listening on PORT ' + PORT);
 });
