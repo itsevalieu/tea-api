@@ -14,14 +14,14 @@ const teaSchema = new Schema({
     description: {
         type: String,
         minlength: 0,
-        maxlength: [140, 'Over max character length of 140']
+        maxlength: [250, 'Over max character length of 250']
     },
     benefits: {
-        type: String
+        type: [String]
     },
     type: {
-        type: [String],
-        enum: ['White', 'Green', 'Oolong', 'Black', 'Pu-erh', 'Herbal', 'Fruit Blend']
+        type: String,
+        enum: ['White Tea', 'Green Tea', 'Oolong Tea', 'Black Tea', 'Pu-erh Tea', 'Herbal Tea', 'Fruit Blend Tea']
     },
     brew: {
         type: Number
