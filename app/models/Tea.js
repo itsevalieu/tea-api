@@ -21,7 +21,7 @@ const teaSchema = new Schema({
     },
     type: {
         type: String,
-        enum: ['White Tea', 'Green Tea', 'Oolong Tea', 'Black Tea', 'Pu-erh Tea', 'Herbal Tea', 'Fruit Blend Tea']
+        enum: ['White', 'Green', 'Oolong', 'Black', 'Pu-erh', 'Herbal', 'Fruit Blend']
     },
     brew: {
         type: Number
