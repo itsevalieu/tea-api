@@ -8,7 +8,7 @@ module.exports = {
     getTea: async (req, res, next) => {
         const data = await Tea.find({});
         console.log('got tea');
-        res.status(200).json({teas});
+        res.status(200).json({data});
     },
     postTea: async (req, res, next) => {
         const { 
