@@ -5,20 +5,12 @@ const router = require('express-promise-router')();
 const TeaControllers = require('../controllers/tea.js');
 
 //Routes
-router.route('/api')
-	.get(function(request, response, next){
-		response.json({
-			"mess": "hello, you're on the whitelist",
-			// "origin": request.headers.origin,
-			// "os_hostname": os.hostname(),
-			// "os_cpus": os.cpus()
-		});
-	});
+router.route('/').get(TeaControllers.getTea);
 
-router.route('/tea').get(TeaControllers.getTea);
-	// .get(function(request, response){
-	// 	console.log(teas);
-	// 	response.json(teas);
-	// });
+router.route('/').post(TeaControllers.postTea);
+
+router.route('/:id').put(TeaControllers.updateTea);
+
+router.route('/:id').delete(TeaControllers.deleteTea);
 
 module.exports = router;
