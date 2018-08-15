@@ -35,14 +35,8 @@ const teaSchema = new Schema({
     handle: {
         type: String
     },
-    comments: {
-        type: [String],
-        index: true
-    },
-    tags: {
-        type: [String],
-        index: true
-    },
+    comments: [{ type: Schema.Types.ObjectId, ref: 'Comment'}],
+    tags: [{ type: Schema.Types.ObjectId, ref: 'Tag'}],
     saved: {
         type: Boolean
     },
