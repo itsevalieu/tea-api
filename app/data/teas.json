@@ -17,7 +17,7 @@
 			"type": "Black Tea",
 			"brew": "5 mins",
 			"origin": "Fujian, China",
-			"description": "Formerly known by the trade name 'Bohea,'' Wuyi tea is a category of black and oolong teas that are unique to the region. These teas are sometimes called rock teas - or yancha - because of the distinctive rocky terrain theyíre grown on. Roasted, robust, and delicately smokey, this gourmet tea can also be infused into savory dishes.",
+			"description": "Formerly known by the trade name 'Bohea,'' Wuyi tea is a category of black and oolong teas that are unique to the region. These teas are sometimes called rock teas - or yancha - because of the distinctive rocky terrain they‚Äôre grown on. Roasted, robust, and delicately smokey, this gourmet tea can also be infused into savory dishes.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110102_b.jpg?v=1528935225",
 			"saved": ""
 		},
@@ -43,12 +43,12 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-high-mountain-fog-green-tea",
-			"name": "Supreme High Mountain Fog Green Tea",
+			"handle": "high-mountain-fog-green-tea",
+			"name": "High Mountain Fog Green Tea",
 			"benefits": "Contains antioxidants, may increase metabolism",
 			"type": "Green Tea",
 			"brew": "2 mins",
-			"description": "This High Mountain Fog Green Tea has a wonderful richness due to its natural growth in the mists and fog of the region. This climate induces the production of more chlorophyll, therefore adding a brighter resilience to the leaf as well as enhancing the unique flavors of the tea. Itís one of the smoothest brews with antioxidant benefits.",
+			"description": "This High Mountain Fog Green Tea has a wonderful richness due to its natural growth in the mists and fog of the region. This climate induces the production of more chlorophyll, therefore adding a brighter resilience to the leaf as well as enhancing the unique flavors of the tea. It‚Äôs one of the smoothest brews with antioxidant benefits.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110171_b.jpg?v=1528935410",
 			"saved": ""
 		},
@@ -73,8 +73,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "precious-monkeys-pick-oolong Tea",
-			"name": "Precious Monkey's Pick Oolong Tea",
+			"handle": "monkeys-pick-oolong Tea",
+			"name": "Monkey's Pick Oolong Tea",
 			"benefits": "May increase metabolism & energy levels",
 			"type": "Oolong Tea",
 			"brew": "3 - 5 mins",
@@ -133,8 +133,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-osmanthus",
-			"name": "Supreme Osmanthus Flower",
+			"handle": "osmanthus",
+			"name": "Osmanthus Flower",
 			"benefits": "Known to help ease stomachaches and cramps, aids in removing toxins and quenching thirst",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
@@ -143,22 +143,22 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-liquorice-slices",
-			"name": "Supreme Liquorice Slices",
+			"handle": "liquorice-slices",
+			"name": "Liquorice Slices",
 			"benefits": "May reduce ulcer symptoms and body fat, has been known to help clear phlegm and improve the respiratory system",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "Liquorice grows wild in Europe and Asia and is surprisingly related to the bean and pea plant. Praised in traditional Chinese medicine to help relieve the chest of phlegm and excessive coughing, Liquorice is also used to flavor food, candy and sodas. Medicinally, itís taken for its anti-inflammatory, antibiotic and anti-allergenic effects.",
+			"description": "Liquorice grows wild in Europe and Asia and is surprisingly related to the bean and pea plant. Praised in traditional Chinese medicine to help relieve the chest of phlegm and excessive coughing, Liquorice is also used to flavor food, candy and sodas. Medicinally, it‚Äôs taken for its anti-inflammatory, antibiotic and anti-allergenic effects.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/400425_b_1.jpg?v=1500021989",
 			"saved": ""
 		},
 		{
-			"handle": "supreme-chrysanthemum",
-			"name": "Supreme Chrysanthemum",
+			"handle": "chrysanthemum",
+			"name": "Chrysanthemum",
 			"benefits": " May help cool and detoxify the body and improve eyesight, antibacterial, contains antioxidants",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "While we carry both the buds and flowers of Chrysanthemum, the difference lies in the taste. Chrysanthemum flowers have a stronger taste while the buds brew delicate and light. Chrysanthemum means ìGolden Flowerî in Greek. It has been traditionally used in Chinese medicine since the 15th century to help cool and detoxify the body.",
+			"description": "While we carry both the buds and flowers of Chrysanthemum, the difference lies in the taste. Chrysanthemum flowers have a stronger taste while the buds brew delicate and light. Chrysanthemum means ‚ÄúGolden Flower‚Äù in Greek. It has been traditionally used in Chinese medicine since the 15th century to help cool and detoxify the body.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110121b.jpg?v=1500021747",
 			"saved": ""
 		},
@@ -178,7 +178,7 @@
 			"benefits": "May boost the immune system, improve overall weakness, lower blood sugar and blood pressure, has been used to treat arthritis and asthma",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "Also known as Huang Qi or milk vetch, Astragalus has been used in traditional Chinese medicine for centuries. It is known to boost the bodyís immune system with antioxidant effects that inhibit free radical production. It is also used to treat various other conditions, including heart disease.",
+			"description": "Also known as Huang Qi or milk vetch, Astragalus has been used in traditional Chinese medicine for centuries. It is known to boost the body‚Äôs immune system with antioxidant effects that inhibit free radical production. It is also used to treat various other conditions, including heart disease.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/400296b.jpg?v=1500021326",
 			"saved": ""
 		},
@@ -218,13 +218,13 @@
 			"benefits": "May aid in digestion, remove toxins, and purify the blood",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "A popular beverage enjoyed in Japan and Korea for both its health benefits and taste. Enjoy Mugicha iced or cold, any time of the day, itís especially consumed after meals to help cleanse the blood and aid digestion. Some say this tea smells and tastes similar to coffee! Roasted Barley is known to contain iron, B2 and B1 for energy.",
+			"description": "A popular beverage enjoyed in Japan and Korea for both its health benefits and taste. Enjoy Mugicha iced or cold, any time of the day, it‚Äôs especially consumed after meals to help cleanse the blood and aid digestion. Some say this tea smells and tastes similar to coffee! Roasted Barley is known to contain iron, B2 and B1 for energy.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110253b_1.jpg?v=1500020433",
 			"saved": ""
 		},
 		{
-			"handle": "premium-tien-chi-flower",
-			"name": "Premium Tien Chi Flower",
+			"handle": "tien-chi-flower",
+			"name": "Tien Chi Flower",
 			"benefits": "Traditionally used for its pain relieving and healing properties, may aid in retaining body fluid levels",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
@@ -233,8 +233,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "premium-mulberry-leaf",
-			"name": "Premium Mulberry Leaf",
+			"handle": "mulberry-leaf",
+			"name": "Mulberry Leaf",
 			"benefits": "May aid in balancing blood-sugar levels, known to aid in removing excess heat and toxins",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
@@ -243,8 +243,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "premium-mint",
-			"name": "Premium Mint",
+			"handle": "mint",
+			"name": "Mint",
 			"benefits": "May be anti-inflammatory, aid in digestion, ease nausea, cool the body, and soothe muscles",
 			"type": "Herbal Tea",
 			"brew": "time",
@@ -253,12 +253,12 @@
 			"saved": ""
 		},
 		{
-			"handle": "premium-american-ginseng",
-			"name": "Premium American Ginseng",
+			"handle": "american-ginseng",
+			"name": "American Ginseng",
 			"benefits": "May increase energy, lower diabetic count and stimulate your mind",
 			"type": "Herbal Tea",
 			"brew": "5 - 10 mins",
-			"description": "Ginseng is a fleshy root from the plant species Panax, which means ìall healî in Greek. The name itself is translated from the Chinese characters meaning ìman root,î and it has long been used in traditional Chinese medicine. It has been known to be an adaptogen ñ not only helping the body deal with stress, but also cooling it and boosting immunity.",
+			"description": "Ginseng is a fleshy root from the plant species Panax, which means ‚Äúall heal‚Äù in Greek. The name itself is translated from the Chinese characters meaning ‚Äúman root,‚Äù and it has long been used in traditional Chinese medicine. It has been known to be an adaptogen ‚Äì not only helping the body deal with stress, but also cooling it and boosting immunity.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/300087b.jpg?v=1500018898",
 			"saved": ""
 		},
@@ -268,7 +268,7 @@
 			"benefits": "Known to have antiviral and anti-inflammatory properties, traditionally used for cramps and constipation",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "Pot Marigold, or Calendula, is a species of plant from the Daisy family that blooms throughout the summer and fall seasons. Its name comes from its Old Saxon name, which translates to ìit turns with the sun.î Marigolds are considered an edible flower, often being incorporated into salads to add color. Additionally, they have been known to have antiviral and anti-inflammatory properties, and are traditionally used for cramps and constipation.",
+			"description": "Pot Marigold, or Calendula, is a species of plant from the Daisy family that blooms throughout the summer and fall seasons. Its name comes from its Old Saxon name, which translates to ‚Äúit turns with the sun.‚Äù Marigolds are considered an edible flower, often being incorporated into salads to add color. Additionally, they have been known to have antiviral and anti-inflammatory properties, and are traditionally used for cramps and constipation.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110245b.jpg?v=1500018710",
 			"saved": ""
 		},
@@ -278,7 +278,7 @@
 			"benefits": "Full of iron, may ease insomnia, depression, and nausea, may help build blood",
 			"type": "Herbal Tea",
 			"brew": "5 - 10 mins",
-			"description": "Meaning ìdragon eyeî in Chinese, Longan is a native fruit to Southern China thatís similar to lychee. It is often used in Chinese cuisine and desserts. As an herbal medicine, Longan is high in iron making it an excellent supplement those who need it, especially women. Try eating it like raisins or brew with goji berries for a delicious health drink.",
+			"description": "Meaning ‚Äúdragon eye‚Äù in Chinese, Longan is a native fruit to Southern China that‚Äôs similar to lychee. It is often used in Chinese cuisine and desserts. As an herbal medicine, Longan is high in iron making it an excellent supplement those who need it, especially women. Try eating it like raisins or brew with goji berries for a delicious health drink.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/540061_b_1.jpg?v=1500018614",
 			"saved": ""
 		},
@@ -288,7 +288,7 @@
 			"benefits": "Known to have antioxidants and anti-microbial properties, may help with arthritis and promote restful sleep",
 			"type": "Herbal Tea",
 			"brew": "5 - 10 mins",
-			"description": "Native to India and Asia, Lemon Grass is a tropical plant widely used throughout Asia in cuisines from soups to curries and brewed as a tea. With a mild citrus flavor and aroma, it also contains citral ñ an essential oil that is also known to be boast antimicrobial and antiviral properties.",
+			"description": "Native to India and Asia, Lemon Grass is a tropical plant widely used throughout Asia in cuisines from soups to curries and brewed as a tea. With a mild citrus flavor and aroma, it also contains citral ‚Äì an essential oil that is also known to be boast antimicrobial and antiviral properties.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110249b.jpg?v=1500018494",
 			"saved": ""
 		},
@@ -328,7 +328,7 @@
 			"benefits": "Adaptogenic, contains antioxidants, may improve memory and promote longevity",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "Jiao Gu Lan is also known as 'Poor Manís Ginseng' or 'Miracle Grass.'  This herbaceous vine is indigenous to southern China, Korea, and Japan. A sister to Ginseng, this powerful herb is best known to have high antioxidants and adaptogenic effects that promote longevity. Jiao Gu Lan has been known to improve memory and prevent hair loss.",
+			"description": "Jiao Gu Lan is also known as 'Poor Man‚Äôs Ginseng' or 'Miracle Grass.'  This herbaceous vine is indigenous to southern China, Korea, and Japan. A sister to Ginseng, this powerful herb is best known to have high antioxidants and adaptogenic effects that promote longevity. Jiao Gu Lan has been known to improve memory and prevent hair loss.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110229b.jpg?v=1500017938",
 			"saved": ""
 		},
@@ -348,7 +348,7 @@
 			"benefits": "May help decrease inflammation, fevers, and headaches",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "Honeysuckle means ìGold Silver Flowerî in Chinese. One of the oldest medicinal herbs in history, it is traditionally used to clear heat and toxins from the body when sick. Honeysuckle is thought to be a natural antibiotic and cold remedy. Try Honeysuckle the next time you feel ill, add a little Ginger and Chrysanthemum for a health boost.",
+			"description": "Honeysuckle means ‚ÄúGold Silver Flower‚Äù in Chinese. One of the oldest medicinal herbs in history, it is traditionally used to clear heat and toxins from the body when sick. Honeysuckle is thought to be a natural antibiotic and cold remedy. Try Honeysuckle the next time you feel ill, add a little Ginger and Chrysanthemum for a health boost.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/400236b.jpg?v=1500017694",
 			"saved": ""
 		},
@@ -368,7 +368,7 @@
 			"benefits": "Can boots heart health, may lower blood pressure and increase appetite",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "Talk about tart! These berries are traditionally brewed to improve blood flow to benefit your heart and digestion. Itís a wonderful traditional remedy to increase the appetite of stubborn children or from being ill. Add a few berries to accent black teas, creating a unique tartness. Full of antioxidants to protect from free radicals.",
+			"description": "Talk about tart! These berries are traditionally brewed to improve blood flow to benefit your heart and digestion. It‚Äôs a wonderful traditional remedy to increase the appetite of stubborn children or from being ill. Add a few berries to accent black teas, creating a unique tartness. Full of antioxidants to protect from free radicals.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/410339_b.jpg?v=1500016362",
 			"saved": ""
 		},
@@ -398,7 +398,7 @@
 			"benefits": "May temporarily alleviate cold symptoms and nausea, known to warm the body and stimulate digestion",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "Commonly used in cold remedies, Ginger is known to boost the immune system, soothe and treat flu symptoms as well as naturally increasing the bodyís energy levels.  It's also believed to aid in circulation, nausea, warm the body, and stimulate digestion.  Boil some slices for a warming drink or try adding slices in recipes for an added kick in flavor.",
+			"description": "Commonly used in cold remedies, Ginger is known to boost the immune system, soothe and treat flu symptoms as well as naturally increasing the body‚Äôs energy levels.  It's also believed to aid in circulation, nausea, warm the body, and stimulate digestion.  Boil some slices for a warming drink or try adding slices in recipes for an added kick in flavor.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/400344_b_1.jpg?v=1500016110",
 			"saved": ""
 		},
@@ -458,7 +458,7 @@
 			"benefits": "Antioxidant boost, has been known to reduce phlegm and coughs, cools the body, may aid in decreasing cancel cells",
 			"type": "Herbal Tea",
 			"brew": "5 - 10 mins",
-			"description": "Balsam Pear or ìbitter melon,î is an edible fruit grown in Asia, Africa and the Caribbean. It has been traditionally used as a home remedy for various illnesses. The Filipino government promotes Balsam Pear to help cure diabetes. This wrinkly looking cucumber is often consumed when feeling sick to help release heat from the body.",
+			"description": "Balsam Pear or ‚Äúbitter melon,‚Äù is an edible fruit grown in Asia, Africa and the Caribbean. It has been traditionally used as a home remedy for various illnesses. The Filipino government promotes Balsam Pear to help cure diabetes. This wrinkly looking cucumber is often consumed when feeling sick to help release heat from the body.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110127b.jpg?v=1500015020",
 			"saved": ""
 		},
@@ -478,7 +478,7 @@
 			"benefits": "May promote circulation and boost immunity, helps supply nutrients to blood, can aid in reducing ulcers and heartburn",
 			"type": "Herbal Tea",
 			"brew": "5 - 7 mins",
-			"description": "With more antioxidants than Green Tea, Ashitaba is a powerful herb once you master the taste. Ashitaba means ìTomorrow's Leafî in Japanese since the leaves grow quickly and are consumed for regenerative properties and is believed to hinder wrinkles and signs of old age. An excellent supplement for vegetarians for the high B-12 content.",
+			"description": "With more antioxidants than Green Tea, Ashitaba is a powerful herb once you master the taste. Ashitaba means ‚ÄúTomorrow's Leaf‚Äù in Japanese since the leaves grow quickly and are consumed for regenerative properties and is believed to hinder wrinkles and signs of old age. An excellent supplement for vegetarians for the high B-12 content.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110243b_1.jpg?v=1500014670",
 			"saved": ""
 		},
@@ -493,38 +493,38 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-zhejiang-tikuanyin",
-			"name": "Supreme Zhejiang Tikuanyin Oolong Tea",
+			"handle": "zhejiang-tikuanyin",
+			"name": "Zhejiang Tikuanyin Oolong Tea",
 			"benefits": "May speed up metabolism and aid in digestion",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
-			"description": "Tikuanyin, also known as Iron Buddha or Iron Goddess of Mercy, is considered a green oolong tea ñ a variation from the oolong tea family. This tea is made when the oolong processing is done in a shorter period of time. The result is a brew thatís more like a green tea in color with vegetal tones, but a mix of nutty fragrances that are present in most oolongs.",
+			"description": "Tikuanyin, also known as Iron Buddha or Iron Goddess of Mercy, is considered a green oolong tea ‚Äì a variation from the oolong tea family. This tea is made when the oolong processing is done in a shorter period of time. The result is a brew that‚Äôs more like a green tea in color with vegetal tones, but a mix of nutty fragrances that are present in most oolongs.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110124b.jpg?v=1500011959",
 			"saved": ""
 		},
 		{
-			"handle": "supreme-ginseng-oolong-tea",
-			"name": "Supreme Ginseng Oolong Tea",
+			"handle": "ginseng-oolong-tea",
+			"name": "Ginseng Oolong Tea",
 			"benefits": "May boost immunity and energy levels, traditionally known to give longevity",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
-			"description": "Ginseng Oolong is for those who want to experience long sustaining energy. This tea is made of select oolong leaves and ginseng root extract. Ginseng is known as the ìroot of mankind,î and is considered an adaptogen - a substance that can help your body deal with stress and find balance in terms of weight and body temperature.",
+			"description": "Ginseng Oolong is for those who want to experience long sustaining energy. This tea is made of select oolong leaves and ginseng root extract. Ginseng is known as the ‚Äúroot of mankind,‚Äù and is considered an adaptogen - a substance that can help your body deal with stress and find balance in terms of weight and body temperature.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110143b_1.jpg?v=1500011856",
 			"saved": ""
 		},
 		{
-			"handle": "supreme-fresh-fragrance-oolong-tea",
-			"name": "Supreme Fresh Fragrance Oolong Tea",
+			"handle": "fresh-fragrance-oolong-tea",
+			"name": "Fresh Fragrance Oolong Tea",
 			"benefits": "May keep teeth healthy, fuel metabolism, and aid in digestion",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
-			"description": "Fresh Fragrance gets its name because thatís exactly what it produces when brewed - a delightful fresh fragrance! Best enjoyed during and after a meal, Oolong tea is highly prized for its belief to speed up your metabolism and to aid in digestion.",
+			"description": "Fresh Fragrance gets its name because that‚Äôs exactly what it produces when brewed - a delightful fresh fragrance! Best enjoyed during and after a meal, Oolong tea is highly prized for its belief to speed up your metabolism and to aid in digestion.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110170b_1.jpg?v=1500011768",
 			"saved": ""
 		},
 		{
-			"handle": "supreme-big-red-robe-oolong-tea",
-			"name": "Supreme Big Red Robe Oolong Tea",
+			"handle": "big-red-robe-oolong-tea",
+			"name": "Big Red Robe Oolong Tea",
 			"benefits": "May fuel metabolism and digestion, contains antioxidants",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
@@ -533,8 +533,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "royal-taiwan-lu-gu-oolong-tea",
-			"name": "Royal Taiwan Lu Gu Oolong Tea",
+			"handle": "taiwan-lu-gu-oolong-tea",
+			"name": "Taiwan Lu Gu Oolong Tea",
 			"benefits": "Antioxidants, may decrease appetite and help clean greasy stomachs",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
@@ -543,8 +543,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "royal-phoenix-yellow-stone-oolong-tea",
-			"name": "Royal Phoenix Yellow Stone Oolong Tea",
+			"handle": "phoenix-yellow-stone-oolong-tea",
+			"name": "Phoenix Yellow Stone Oolong Tea",
 			"benefits": "May increase burning of fat and metabolism and ease digestion",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
@@ -553,8 +553,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "royal-high-mountain-decaf-oolong-tea",
-			"name": "Royal High Mountain Decaf Oolong Tea",
+			"handle": "high-mountain-decaf-oolong-tea",
+			"name": "High Mountain Decaf Oolong Tea",
 			"benefits": "",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
@@ -563,18 +563,18 @@
 			"saved": ""
 		},
 		{
-			"handle": "royal-dong-ting-oolong-tea",
-			"name": "Royal Dong Ting Oolong Tea",
+			"handle": "dong-ting-oolong-tea",
+			"name": "Dong Ting Oolong Tea",
 			"benefits": "May fuel metabolism & digestion, contains antioxidants",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
-			"description": "Dong Ting Oolong is considered to be one of Taiwanís most famous and finest teas. Harvested on Dong Ting Mountain, it is believed the plants were brought over from the Wuyi Mountains in China. This exquisite tea will give you an amazing floral tone with smooth, sweet, dry flavors that are unique to the region.",
+			"description": "Dong Ting Oolong is considered to be one of Taiwan‚Äôs most famous and finest teas. Harvested on Dong Ting Mountain, it is believed the plants were brought over from the Wuyi Mountains in China. This exquisite tea will give you an amazing floral tone with smooth, sweet, dry flavors that are unique to the region.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110134b.jpg?v=1500010661",
 			"saved": ""
 		},
 		{
-			"handle": "precious-a-li-shan-special-grade-oolong-tea",
-			"name": "Precious A-Li Shan Special Grade Oolong Tea",
+			"handle": "a-li-shan-special-grade-oolong-tea",
+			"name": "A-Li Shan Special Grade Oolong Tea",
 			"benefits": "",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
@@ -598,7 +598,7 @@
 			"benefits": "Naturally creamy, may increase energy, metabolism, and fat burning",
 			"type": "Oolong Tea",
 			"brew": "5 mins",
-			"description": "From the high misty mountains in Taiwan comes a naturally rich and milky flavored tea. Just smell the tea leaves and youíll know what weíre talking about! Surprisingly, no actual milk is used - the flavor is purely natural from climate conditions the tea tress grow in. All we did was infuse this tea with the unforgettable sweet fragrance of Osmanthus flowers for a delightful cup of tea.",
+			"description": "From the high misty mountains in Taiwan comes a naturally rich and milky flavored tea. Just smell the tea leaves and you‚Äôll know what we‚Äôre talking about! Surprisingly, no actual milk is used - the flavor is purely natural from climate conditions the tea tress grow in. All we did was infuse this tea with the unforgettable sweet fragrance of Osmanthus flowers for a delightful cup of tea.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110063b.jpg?v=1500010233",
 			"saved": ""
 		},
@@ -653,8 +653,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-queen-of-pearl-jasmine-green-tea",
-			"name": "Supreme Queen of Pearl Jasmine Green Tea",
+			"handle": "queen-of-pearl-jasmine-green-tea",
+			"name": "Queen of Pearl Jasmine Green Tea",
 			"benefits": "May ease anxiety and promote rest, has a delightful aroma",
 			"type": "Green Tea",
 			"brew": "2 mins",
@@ -663,8 +663,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-jasmine-pekoe-green-tea",
-			"name": "Supreme Jasmine Pekoe Green Tea",
+			"handle": "jasmine-pekoe-green-tea",
+			"name": "Jasmine Pekoe Green Tea",
 			"benefits": "May promote rest, maintain good skin, and aid in weight loss",
 			"type": "Green Tea",
 			"brew": "2 mins",
@@ -673,8 +673,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "royal-spring-snail-green-tea",
-			"name": "*Royal Spring Snail Green Tea",
+			"handle": "spring-snail-green-tea",
+			"name": "*Spring Snail Green Tea",
 			"benefits": "May improve mental health and calm the mind, may reduce cholesterol levels, contains antioxidants",
 			"type": "Green Tea",
 			"brew": "2 mins",
@@ -683,8 +683,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "royal-jasmine-quya-green-tea",
-			"name": "Royal Jasmine Quya Green Tea",
+			"handle": "jasmine-quya-green-tea",
+			"name": "Jasmine Quya Green Tea",
 			"benefits": "May improve mental health and calm the mind, may reduce cholesterol levels, contains antioxidants",
 			"type": "Green Tea",
 			"brew": "2 mins",
@@ -703,18 +703,18 @@
 			"saved": ""
 		},
 		{
-			"handle": "premium-taiping-monkeys-pick-green-tea",
-			"name": "Premium Taiping Monkey's Pick Green Tea",
+			"handle": "taiping-monkeys-pick-green-tea",
+			"name": "Taiping Monkey's Pick Green Tea",
 			"benefits": "May boost immunity and digestion",
 			"type": "Green Tea",
 			"brew": "2 mins",
-			"description": "No monkeys were harmed in the picking of this tea! Folklore has it that trained monkeys would pick tea leaves from hard to reach trees hanging off cliffs. A winner at the Panama Pacific Exposition in 1915, Taiping Monkey's Pick is characterized by its long, flat leaves with a waffle-like pattern from drying on linen or bamboo mats. Itís also considered one of the top ten teas in China.",
+			"description": "No monkeys were harmed in the picking of this tea! Folklore has it that trained monkeys would pick tea leaves from hard to reach trees hanging off cliffs. A winner at the Panama Pacific Exposition in 1915, Taiping Monkey's Pick is characterized by its long, flat leaves with a waffle-like pattern from drying on linen or bamboo mats. It‚Äôs also considered one of the top ten teas in China.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110064b_2.jpg?v=1499992108",
 			"saved": ""
 		},
 		{
-			"handle": "premium-silky-green-tea",
-			"name": "Premium Silky Green Tea",
+			"handle": "silky-green-tea",
+			"name": "Silky Green Tea",
 			"benefits": " Antioxidant rich, may improve digestion",
 			"type": "Green Tea",
 			"brew": "2 mins",
@@ -723,8 +723,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "premium-osmanthus-green-tea",
-			"name": "Premium Osmanthus Green Tea",
+			"handle": "osmanthus-green-tea",
+			"name": "Osmanthus Green Tea",
 			"benefits": "May beautify complexion, may remove toxins and enhance eyesight",
 			"type": "Green Tea",
 			"brew": "2 mins",
@@ -738,7 +738,7 @@
 			"benefits": "May aid in digestion and boost immunity",
 			"type": "Green Tea",
 			"brew": "2 mins",
-			"description": "The aptly named San Bei Xiang - or ìthree fragrant cupsî in Chinese - has an ability to be steeped at least three times, revealing different flavor nuances with each brew. Nice and full-bodied, this makes a great everyday green tea.",
+			"description": "The aptly named San Bei Xiang - or ‚Äúthree fragrant cups‚Äù in Chinese - has an ability to be steeped at least three times, revealing different flavor nuances with each brew. Nice and full-bodied, this makes a great everyday green tea.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110061b.jpg?v=1499990411",
 			"saved": ""
 		},
@@ -793,8 +793,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-silver-dragon-white-tea",
-			"name": "Supreme Silver Dragon White Tea",
+			"handle": "silver-dragon-white-tea",
+			"name": "Silver Dragon White Tea",
 			"benefits": "Antioxidant rich, may aid against Alzheimer's and heart disease",
 			"type": "White Tea",
 			"brew": "5 mins",
@@ -803,8 +803,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-palm-silver-monkey-white-tea",
-			"name": "Supreme Palm Silver Monkey White Tea",
+			"handle": "palm-silver-monkey-white-tea",
+			"name": "Palm Silver Monkey White Tea",
 			"benefits": " Antioxidants, may reduce blood sugar levels and improve skin conditions",
 			"type": "White Tea",
 			"brew": "5 mins",
@@ -858,7 +858,7 @@
 			"benefits": "Antioxidant rich, low in caffeine, flavorful after multiple steeps",
 			"type": "White Tea",
 			"brew": "5 mins",
-			"description": "High Grade China White is cultivated from large tea trees called Dai Bai, or ìBig White,î that have been around since the late 1800s. A fine tea for everyday drinking, you can enjoy multiple steepings to unravel all its earthy and creamy flavors. As with most white teas, High Grade China White is minimally processed, full of antioxidants, and low in caffeine.",
+			"description": "High Grade China White is cultivated from large tea trees called Dai Bai, or ‚ÄúBig White,‚Äù that have been around since the late 1800s. A fine tea for everyday drinking, you can enjoy multiple steepings to unravel all its earthy and creamy flavors. As with most white teas, High Grade China White is minimally processed, full of antioxidants, and low in caffeine.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110009b_1.jpg?v=1499969443",
 			"saved": ""
 		},
@@ -883,8 +883,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "premium-matcha",
-			"name": "Premium Matcha",
+			"handle": "matcha",
+			"name": "Matcha Tea",
 			"benefits": "Contains many vitamins and minerals, slowly releases caffeine to sustain energy without the crash",
 			"type": "Green Tea",
 			"brew": "Whisk",
@@ -893,12 +893,12 @@
 			"saved": ""
 		},
 		{
-			"handle": "premium-gyokuro-tama-no-shizuku",
-			"name": "Premium Gyokuro Tama No Shizuku Green Tea",
+			"handle": "gyokuro-tama-no-shizuku",
+			"name": "Gyokuro Tama No Shizuku Green Tea",
 			"benefits": "May boost immunity and reduce blood pressure, antioxidant rich",
 			"type": "Green Tea",
 			"brew": "2 mins",
-			"description": "Gyokuro means ìJade Dewî and is one of Japan's finest teas. It was first discovered in 1835 by Kahei Yamamoto who shaded the leaves from sunlight for three weeks prior to harvesting. The result was an increase in the amount of caffeine and amino acids, as well as a sweeter brew. Use twice as much tea per cup with a lower brewing temperature for the perfect cup of tea.",
+			"description": "Gyokuro means ‚ÄúJade Dew‚Äù and is one of Japan's finest teas. It was first discovered in 1835 by Kahei Yamamoto who shaded the leaves from sunlight for three weeks prior to harvesting. The result was an increase in the amount of caffeine and amino acids, as well as a sweeter brew. Use twice as much tea per cup with a lower brewing temperature for the perfect cup of tea.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110090b.jpg?v=1499927533",
 			"saved": ""
 		},
@@ -968,7 +968,7 @@
 			"benefits": "Energizing, contains essential minerals and vitamins, may speed up metabolism",
 			"type": "Green Tea",
 			"brew": "2 mins",
-			"description": "A warm blend of sencha and toasted brown rice, dusted with matcha, Matcha Genmaicha boasts a beautiful green brew with a full-bodied toasty flavor. Itís sure to wake up your senses and delight your taste buds. Your body slowly digests matcha for an energizing pick-me-up without the caffeine crash.",
+			"description": "A warm blend of sencha and toasted brown rice, dusted with matcha, Matcha Genmaicha boasts a beautiful green brew with a full-bodied toasty flavor. It‚Äôs sure to wake up your senses and delight your taste buds. Your body slowly digests matcha for an energizing pick-me-up without the caffeine crash.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110258b_1.jpg?v=1499926490",
 			"saved": ""
 		},
@@ -1018,7 +1018,7 @@
 			"benefits": "Contains antioxidants, may help reduce risk of cancer and boost weight loss without caffeine jitters",
 			"type": "Green Tea",
 			"brew": "2 mins",
-			"description": "Genmaicha is a blend of Japanese green tea and roasted brown rice. Sometimes referred to as ìpopcorn teaî due to a few grains of rice popping during the roasting process, this tea used to be consumed by the lower class as a way to stretch their tea supply. Coming from Kirishima District in Kagoshima, Japan, this batch of Genmaicha is specifically made using quality select needle-shaped leaves.",
+			"description": "Genmaicha is a blend of Japanese green tea and roasted brown rice. Sometimes referred to as ‚Äúpopcorn tea‚Äù due to a few grains of rice popping during the roasting process, this tea used to be consumed by the lower class as a way to stretch their tea supply. Coming from Kirishima District in Kagoshima, Japan, this batch of Genmaicha is specifically made using quality select needle-shaped leaves.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110320-a.jpg?v=1499925944",
 			"saved": ""
 		},
@@ -1048,7 +1048,7 @@
 			"benefits": "Antioxidants, may help reduce risk of cancer and boost weight loss with caffeine jitters",
 			"type": "Green Tea",
 			"brew": "2 mins",
-			"description": "A twist on the usual taste of tea - Genmaicha is a Japanese blend of Sencha and roasted brown rice. Sometimes called ìPopcorn Teaî due to the rice popping during the roasting process, this tea used to be consumed by the lower class as a way to stretch their supply of tea. Genmaicha is now appreciated by all for its unique toasty flavor.",
+			"description": "A twist on the usual taste of tea - Genmaicha is a Japanese blend of Sencha and roasted brown rice. Sometimes called ‚ÄúPopcorn Tea‚Äù due to the rice popping during the roasting process, this tea used to be consumed by the lower class as a way to stretch their supply of tea. Genmaicha is now appreciated by all for its unique toasty flavor.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110261b_2.jpg?v=1499920302",
 			"saved": ""
 		},
@@ -1073,8 +1073,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-pu-erh",
-			"name": "Supreme Pu-Erh",
+			"handle": "pu-erh",
+			"name": "Pu-Erh",
 			"benefits": "Energizing, cleansing, may help burn fat and reduce bad cholesterol",
 			"type": "Pu-Erh Tea",
 			"brew": "5 mins",
@@ -1113,8 +1113,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "supreme-gongfu-black-tea",
-			"name": "Supreme Gongfu Black Tea",
+			"handle": "gongfu-black-tea",
+			"name": "Gongfu Black Tea",
 			"benefits": "May decrease blood pressure and enhance memory",
 			"type": "Black Tea",
 			"brew": "5 mins",
@@ -1123,8 +1123,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "premium-lychee-black-tea",
-			"name": "Premium Lychee Black Tea",
+			"handle": "lychee-black-tea",
+			"name": "Lychee Black Tea",
 			"benefits": "Antioxidants, may increase alertness and focus, all-natural lychee infusion",
 			"type": "Black Tea",
 			"brew": "5 mins",
@@ -1133,8 +1133,8 @@
 			"saved": ""
 		},
 		{
-			"handle": "premium-keemun-black-tea",
-			"name": "Premium Keemun Black Tea",
+			"handle": "keemun-black-tea",
+			"name": "Keemun Black Tea",
 			"benefits": "May enhance memory, a good coffee alternative, may boost muscle endurance and energy",
 			"type": "Black Tea",
 			"brew": "5 mins",
@@ -1158,7 +1158,7 @@
 			"benefits": "May help with weight loss and boost energy levels",
 			"type": "Black Tea",
 			"brew": "5 mins",
-			"description": "Unlike other black teas, Organic Red Peony is made only from young tea buds that are carefully hand-tied into a floret. The tea itself is processed like any black tea, however when you brew it, itíll bloom into a floating peony. This unique tea can last up to a few steeps, if not more.",
+			"description": "Unlike other black teas, Organic Red Peony is made only from young tea buds that are carefully hand-tied into a floret. The tea itself is processed like any black tea, however when you brew it, it‚Äôll bloom into a floating peony. This unique tea can last up to a few steeps, if not more.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110095b_1.jpg?v=1499905739",
 			"saved": ""
 		},
@@ -1178,7 +1178,7 @@
 			"benefits": "May improve focus, circulation, and warm the body",
 			"type": "Black Tea",
 			"brew": "5 mins",
-			"description": "Chai is a popular tea from India made from a blend of strong black teas and warm, aromatic Indian spices and herbs, including cardamom, cinnamon, ginger, cloves, and pepper. The name literally means ìmixed-spice teaî in Hindi and is commonly enjoyed with milk and sugar, but is also great by itself. Only the top quality tea leaves, herbs, and spices go into this blend which results in a delicate, smooth and flavorful brew.",
+			"description": "Chai is a popular tea from India made from a blend of strong black teas and warm, aromatic Indian spices and herbs, including cardamom, cinnamon, ginger, cloves, and pepper. The name literally means ‚Äúmixed-spice tea‚Äù in Hindi and is commonly enjoyed with milk and sugar, but is also great by itself. Only the top quality tea leaves, herbs, and spices go into this blend which results in a delicate, smooth and flavorful brew.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110144b.jpg?v=1499905479",
 			"saved": ""
 		},
@@ -1188,7 +1188,7 @@
 			"benefits": "May improve focus, circulation, and warm the body",
 			"type": "Black Tea",
 			"brew": "5 mins",
-			"description": "Chai is a popular tea from India made from a blend of strong black teas and warm, aromatic Indian spices and herbs, including cardamom, cinnamon, ginger, cloves, and pepper. The name literally means ìmixed-spice teaî in Hindi and is commonly enjoyed with milk and sugar, but is also great by itself. CTC, which stands for ìCrush, Tear, Curlî, is a processing method us",
+			"description": "Chai is a popular tea from India made from a blend of strong black teas and warm, aromatic Indian spices and herbs, including cardamom, cinnamon, ginger, cloves, and pepper. The name literally means ‚Äúmixed-spice tea‚Äù in Hindi and is commonly enjoyed with milk and sugar, but is also great by itself. CTC, which stands for ‚ÄúCrush, Tear, Curl‚Äù, is a processing method us",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110129b.jpg?v=1499905262",
 			"saved": ""
 		},
@@ -1248,7 +1248,7 @@
 			"benefits": "Full of Vitamin C and antioxidants, caffeine free, may lower cholesterol",
 			"type": "Fruit Blend Tea",
 			"brew": "5 - 7 mins",
-			"description": "Relive summer anytime with our Summertime Bliss. Blended with a base of Hibiscus and Rose Hips for immunity support with added fruit benefits from grapes, oranges and pears. Pears are known to have a cooling effect, creating an excellent remedy for those who have a fever. With its high folic acid content, this teaís also safe for pregnant women. Summertime Bliss is made from hibiscus, rose hips, apple bits, citrus peels, grapes bits, and pineapple bits.",
+			"description": "Relive summer anytime with our Summertime Bliss. Blended with a base of Hibiscus and Rose Hips for immunity support with added fruit benefits from grapes, oranges and pears. Pears are known to have a cooling effect, creating an excellent remedy for those who have a fever. With its high folic acid content, this tea‚Äôs also safe for pregnant women. Summertime Bliss is made from hibiscus, rose hips, apple bits, citrus peels, grapes bits, and pineapple bits.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110213-2b_-_Summertime_Bliss.jpg?v=1493944417",
 			"saved": ""
 		},
@@ -1258,7 +1258,7 @@
 			"benefits": "Anti-inflammatory, full of Vitamin C and antioxidants, caffeine free, may improve digestion",
 			"type": "Fruit Blend Tea",
 			"brew": "5 - 7 mins",
-			"description": "Take a trip to the Tropics with our caffeine free Pineapple Dreams thatís bursting with tart, fruity flavors. Pineapples are known to prevent macular degeneration - the primary cause of vision loss in adults. Since pineapples are known to be anti-inflammatory, this tea may do well as a supplement for those who suffer from arthritis. Pineapple Dreams is made from hibiscus, rose hips, apple bits, citrus peels, and pineapple bits.",
+			"description": "Take a trip to the Tropics with our caffeine free Pineapple Dreams that‚Äôs bursting with tart, fruity flavors. Pineapples are known to prevent macular degeneration - the primary cause of vision loss in adults. Since pineapples are known to be anti-inflammatory, this tea may do well as a supplement for those who suffer from arthritis. Pineapple Dreams is made from hibiscus, rose hips, apple bits, citrus peels, and pineapple bits.",
 			"imageUrl": "https://cdn.shopify.com/s/files/1/1944/4593/products/110213-5b_-_Pineapple_Dreams.jpg?v=1493944234",
 			"saved": ""
 		},
