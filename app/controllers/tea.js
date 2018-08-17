@@ -10,6 +10,12 @@ module.exports = {
         console.log('got tea');
         res.status(200).json({data});
     },
+    // getTeaTags: async(req, res, next) => {
+    //     const data = await Tea.findOne({_id: "5b73d020c9d3262bc4e144a6"}).populate({path: 'tea.tags'}).exec(function(err, tea) {
+        
+    //     });
+    //     res.status(200).json({data});
+    // },
     postTea: async (req, res, next) => {
         const { 
             name,
@@ -19,7 +25,9 @@ module.exports = {
             brew,
             origin,
             imageUrl,
-            handle
+            handle,
+            tags,
+            comments,
         } = req.body;
 
         //create new tea
@@ -31,7 +39,9 @@ module.exports = {
             brew,
             origin,
             imageUrl,
-            handle
+            handle,
+            tags,
+            comments
         });
         await newTea.save();
         //respond with message
@@ -46,7 +56,9 @@ module.exports = {
             brew,
             origin,
             imageUrl,
-            handle
+            handle,
+            tags,
+            comments
         } = req.body;
 
         const foundTea = await Tea.findByIdAndUpdate({
@@ -60,7 +72,9 @@ module.exports = {
                 brew,
                 origin,
                 imageUrl,
-                handle
+                handle,
+                tags,
+                comments
             }
         }, (err) => {
             if(err) return err;

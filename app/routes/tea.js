@@ -13,4 +13,5 @@ router.route('/:id').put(TeaControllers.updateTea);
 
 router.route('/:id').delete(TeaControllers.deleteTea);
 
+// router.route('/tags').get(TeaControllers.getTeaTags);
 module.exports = router;

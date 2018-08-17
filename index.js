@@ -25,6 +25,8 @@ app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 
 //Router
 app.use('/api', require('./app/routes/tea.js'));
+app.use('/api/tag', require('./app/routes/tag.js'));
+app.use('/api/comment', require('./app/routes/comment.js'));
 
 //Listener
 app.listen(PORT, function() {
