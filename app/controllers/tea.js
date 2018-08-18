@@ -10,12 +10,34 @@ module.exports = {
         console.log('got tea');
         res.status(200).json({data});
     },
-    // getTeaTags: async(req, res, next) => {
-    //     const data = await Tea.findOne({_id: "5b73d020c9d3262bc4e144a6"}).populate({path: 'tea.tags'}).exec(function(err, tea) {
-        
-    //     });
-    //     res.status(200).json({data});
-    // },
+    getBlackTea: async (req, res, next) => {
+        const data = await Tea.find({type: 'Black'});
+        res.status(200).json({data});
+    },
+    getGreenTea: async (req, res, next) => {
+        const data = await Tea.find({type: 'Green'});
+        res.status(200).json({data});
+    },
+    getOolongTea: async (req, res, next) => {
+        const data = await Tea.find({type: 'Oolong'});
+        res.status(200).json({data});
+    },
+    getWhiteTea: async (req, res, next) => {
+        const data = await Tea.find({type: 'White'});
+        res.status(200).json({data});
+    },
+    getHerbalTea: async (req, res, next) => {
+        const data = await Tea.find({type: 'Herbal'});
+        res.status(200).json({data});
+    },
+    getPuerhTea: async (req, res, next) => {
+        const data = await Tea.find({type: 'Pu-erh'});
+        res.status(200).json({data});
+    },
+    getFruitBlendTea: async (req, res, next) => {
+        const data = await Tea.find({type: 'Fruit Blend'});
+        res.status(200).json({data});
+    },
     postTea: async (req, res, next) => {
         const { 
             name,
