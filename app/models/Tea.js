@@ -14,7 +14,7 @@ const teaSchema = new Schema({
     description: {
         type: String,
         minlength: 0,
-        maxlength: [250, 'Over max character length of 250']
+        maxlength: [450, 'Over max character length of 450']
     },
     benefits: {
         type: [String]
