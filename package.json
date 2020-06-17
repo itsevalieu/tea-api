@@ -15,7 +15,7 @@
     "express": "^4.16.3",
     "express-promise-router": "^3.0.3",
     "mongoose": "^5.2.7",
-    "morgan": "^1.9.0"
+    "morgan": "^1.9.1"
   },
   "engines": {
     "node": "v8.11.1",
