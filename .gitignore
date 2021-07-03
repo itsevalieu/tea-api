@@ -1,2 +1,4 @@
+.env
 node_modules
-./app/data/teas.json
+app/data/teas.json
+app/data/2.json
