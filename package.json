@@ -15,8 +15,8 @@
     "dotenv": "^8.2.0",
     "express": "^4.16.3",
     "express-promise-router": "^3.0.3",
-    "mongoose": "^5.2.7",
-    "morgan": "^1.9.0"
+    "mongoose": "^5.13.1",
+    "morgan": "^1.10.0"
   },
   "engines": {
     "node": "v8.11.1",
